@@ -1,5 +1,5 @@
 {
-    "name": "ers-stack",
+    "name": "electron-boilerplate-with-sqlite3",
     "author": "Flavio Henrique",
     "version": "0.1.0",
     "private": true,
